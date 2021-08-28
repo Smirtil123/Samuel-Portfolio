@@ -6,4 +6,4 @@ Example data science portfolio
 * I am currently doing this as a test for now.
 * As I gain more experience and learning the field of Data Science, I will include these projects.
 
-![](/images/227A2001.jpg)
+<img src="/images/227A2001.jpg" width="270" height="405">
